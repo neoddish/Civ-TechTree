@@ -16,4 +16,4 @@ In strategy computer games, a technology, tech, or research tree is a **hierarch
 # TechTree of Civ5 BNW
 
 ![tech tree in civ5 BNW](civ5BNW_techtree.jpg)
-> Download the original image from [civfanatics](https://forums.civfanatics.com/media/techtree-bnw.3607/
+> Download the original image from [civfanatics](https://forums.civfanatics.com/media/techtree-bnw.3607/)
